@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * S was created by John Chambers in 1978, then at Bell Labs
 * (S-Plus was commercial, AT\&T, Lucent, Insightful, Tibco)
-* R was a research project, started in 1992 by Ross Ihaka and Robert Gentlemen from Univ. of Aucland, to re-implement S in Scheme
+* R was a research project, started in 1992 by Ross Ihaka and Robert Gentlemen from Univ. of Auckland, to re-implement S in Scheme
 * beta released in 2000, 
 * Most academic S-Plus contributors moved to R early 2000s
 * (now, Tibco sells [TERR](https://www.tibco.com/blog/2014/08/06/26509/), an alternatively licensed runtime compatible to R)
